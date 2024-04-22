@@ -67,6 +67,10 @@
   height: 2px;
 }
 
+.cl-socialButtonsProviderIcon__github {
+  filter: invert(1);
+}
+
 .cl-socialButtonsIconButton {
   border: 3px solid #565761;
 }
